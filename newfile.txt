@@ -1,12 +1,19 @@
+New peer learning day
 
-Progetto Famiglie
-Home
-Member Login
+Date: 2024-11-27
 
+Projects:
 
+100560 Introduction to Version Control and Git Basics
+100562 Branching and Merging in Git
+100563 Git and GitHub Practice
+You may not see one of your project - take the time of this Peer learning day for catching up with your peers on your current project(s).
+There are no predefined groups for this PLD. You are free to join any group, which you will work with for the entire day .
 
-Remember Me?
-Forgot ID/Password?
+There is no lead speaker - just collaborate!
+Your group can contain learners from other campuses - please use the auto generated video room to meet with them.
+Here's what you'll do!
 
-
-Copyright © 2023 Nielsen Consumer LLC. All Rights Reserved.
+Your group will vote on questions you'd like to review then spend the morning working through them (starting at the lowest number that received a vote)
+Continue to fix, modify, or complete other questions as a group until 3pm
+Have fun! Your learner tutor or Staff will continue to check in and support discussion and understanding.
